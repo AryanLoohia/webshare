@@ -284,6 +284,7 @@ body {
 
 #whyUsInfo {
     display: flex;
+        padding-top:2rem;
     flex-direction: column;
     width: 100%;
     background: #00000008;
