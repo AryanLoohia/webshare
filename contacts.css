@@ -34,7 +34,10 @@ body {
     z-index: 100;
     height: 5rem;
 }
-
+#navLogo img {
+    max-height: 80px !important;
+    padding-top: 0.8rem;
+}
 #navLinks {
     display: flex;
     flex-direction: row;
