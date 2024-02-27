@@ -284,10 +284,16 @@ body {
 
 #whyUsInfo {
     display: flex;
-        padding-top:2rem;
+        padding-top:3rem;
     flex-direction: column;
     width: 100%;
     background: #00000008;
+}
+.greenBar {
+    width: 3rem;
+    margin: 0.3rem 0.2rem;
+    height: 0.4rem;
+    background: var(--green);
 }
 
 #whyUsHead {
