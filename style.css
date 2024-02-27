@@ -1113,8 +1113,7 @@ body {
     }
 
     .FAQquestion span{
-       text-decoration: #06ce78 underline 0.8px;
-       text-underline-offset:4px;
+       
     } 
 
     .FAQItem.active > span {
