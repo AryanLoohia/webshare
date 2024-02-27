@@ -497,6 +497,7 @@ body {
     flex-direction: column;
     background: #2a2a2a;
     padding: 3rem calc(25vw - 15rem);
+            padding-top: 4.5rem;
 }
 
 
