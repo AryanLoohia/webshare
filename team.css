@@ -21,6 +21,11 @@ body {
     max-height: 80px !important;
 } 
 
+#navLogo img {
+    max-height: 80px !important;
+    padding-top: 0.8rem;
+}
+
 #navbar {
     width: 100%;
     box-sizing: border-box;
